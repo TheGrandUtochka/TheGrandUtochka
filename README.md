@@ -1,7 +1,24 @@
 ### Привет, я Гранд! 👋
-### Скиллы и точка:
-![vscode](https://camo.githubusercontent.com/0c830a4751be0fa62d221fb5b182e5ae4d6ff96274f44fd4c73902a0bb44f5d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456469746f722d56535f436f64652d696e666f726d6174696f6e616c3f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d776869746526636f6c6f723d366161366638)
+### О себе:
+- 
+### Скиллы:
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+### Использую для работы/учёбы:
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Учу на данный момент:
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### В планах:
+Роадмап: ![ossu-ds](https://camo.githubusercontent.com/f6fe09e3270ad8335de735f6e2eba6c4f5c20bdda00b11bef746d35d92ad9701/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f5353552d646174612d2d736369656e63652d626c75652e737667)
 
 ![kartinochka](https://i.redd.it/yi0org25a0x91.jpg)
-ctrc
+
