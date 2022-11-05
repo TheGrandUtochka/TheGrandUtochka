@@ -6,6 +6,7 @@
 
 ### О себе:
 - 🌱 Учусь анализировать данные с ноября 2021 г.
+- 🎮 Обожаю Cities Skylines, Euro Track Simulator 2, Minecraft, Fall Guys
 - 
 ### Скиллы:
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
