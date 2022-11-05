@@ -11,7 +11,7 @@
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-### 💼 Использую для работы/учёбы:
+### 👷‍♂️ Использую для работы/учёбы:
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ### 🎓 Учу на данный момент:
@@ -23,8 +23,12 @@
 
 ![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 💼 Портфолио:
+
 ### 🪐 В планах:
-Роадмап: ![ossu-ds](https://camo.githubusercontent.com/f6fe09e3270ad8335de735f6e2eba6c4f5c20bdda00b11bef746d35d92ad9701/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f5353552d646174612d2d736369656e63652d626c75652e737667)
+- 🗺️ Роадмап: ![ossu-ds](https://camo.githubusercontent.com/f6fe09e3270ad8335de735f6e2eba6c4f5c20bdda00b11bef746d35d92ad9701/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f5353552d646174612d2d736369656e63652d626c75652e737667)
+- 🧅 Сделать github.io сайт
+- 🍻 Разработать трубопровод "Пивной поток" Прага-Екатеринбург
 
 ![kartinochka](https://i.redd.it/yi0org25a0x91.jpg)
 
