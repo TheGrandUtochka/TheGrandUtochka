@@ -1,11 +1,8 @@
 ### Привет, я Гранд! 👋
 
-<p>
-   <a href="https://t.me/grandmelo" target="_blank">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-   <a href="mailto:sublprod@gmail.com" target="_blank">
-       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+### Связаться со мной:
+- ![tg](https://cdn.7tv.app/emote/6256fdefc2be2d716f88e27c/1x.webp) https://t.me/grandmelo
+- ![mail](https://cdn.7tv.app/emote/616b4fb0c52da56cd490aebb/1x.webp) grandmeloyan@yandex.ru
 
 ### О себе:
 - 🌱 Учусь анализировать данные с ноября 2021 г.
