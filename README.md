@@ -25,6 +25,8 @@
 ![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ### 💼 Портфолио:
+- Расчёт юнит-экономики, параметры выхода на 25% маржинальность проекта
+- 
 
 ### 🪐 В планах:
 - 🗺️ Роадмап: ![ossu-ds](https://camo.githubusercontent.com/f6fe09e3270ad8335de735f6e2eba6c4f5c20bdda00b11bef746d35d92ad9701/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f5353552d646174612d2d736369656e63652d626c75652e737667)
